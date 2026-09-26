@@ -1,1 +1,3 @@
-# Asset Module - Global Ocean Project - Tolugold2704
+# Asset Module - Global Ocean Project
+This is Toluwalase's work for Group B.
+This module visualizes 4-panel ocean data.
