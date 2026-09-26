@@ -1,2 +1,1 @@
-# GROUP-B-CLASS-WORK
-CLASS EXERCISE
+# my-work 4 panel visualization - My portfolio project
